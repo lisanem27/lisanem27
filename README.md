@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisanem27
 - 👀 I’m interested in computational psychiatry and autism
-- 🌱 I’m currently learning how to program in VBA machinery in matlab (and eventually python)
+- 🌱 coding in MatLab, R and Python
 - 📫 How to reach me lisanemoses@hotmail.com
 
 <!---
